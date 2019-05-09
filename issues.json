@@ -28,9 +28,9 @@
         "component": "Component2",
         "affectedVersion": "Version 1.5",
         "fix version": "3.0",
-        "Assignee": 4,
-        "Description": "Please test this issue and give feedback to customer.",
-        "Comments": [],
+        "assignee": 4,
+        "description": "Please test this issue and give feedback to customer.",
+        "comments": [],
         "status": "open"
     },
     {
@@ -45,9 +45,9 @@
         "component": "Component3",
         "affectedVersion": "Version 1.5",
         "fix version": "2.5",
-        "Assignee": 1,
-        "Description": "Please make a decision if we are allowed to change UI.",
-        "Comments": [{ "userID": 5, "c1":"Go on, proceed with work."}, {"userID": 3, "c2":"Not sure how to proceed."}, {"userID": 4, "c2":"Arrange consulting."}],
+        "assignee": 1,
+        "description": "Please make a decision if we are allowed to change UI.",
+        "comments": [{ "userID": 5, "c1":"Go on, proceed with work."}, {"userID": 3, "c2":"Not sure how to proceed."}, {"userID": 4, "c2":"Arrange consulting."}],
         "status": "open"
     }
 ]
